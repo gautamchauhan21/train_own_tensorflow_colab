@@ -9,3 +9,4 @@ Project idea based on RomRock story (https://hackernoon.com/object-detection-in-
 
 But prepared for last version of tensorflow detection models zoo(https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/detection_model_zoo.md) and for Python3.
 
+![alt text](https://github.com/toborobot/train_own_tensorflow_colab/blob/master/image_recognized.jpg)
